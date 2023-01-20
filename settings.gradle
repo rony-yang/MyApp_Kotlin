@@ -1,0 +1,41 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+rootProject.name = "My Application"
+include ':app'
+include ':ex04_4_androidChoice'
+include ':ex04_petChoice'
+include ':ex04_3_gugudan'
+include ':ex05_2_layoutsample'
+include ':ex05_relativelayout'
+include ':ex05_relativelayout2'
+include ':ex05_4_layoutmix'
+include ':ex05_project2_calculate'
+include ':ex06_clock'
+include ':ex06_timepicker'
+include ':ex06_practice1_reservationapp'
+include ':ex06_textviewsample'
+include ':ex06_2_viewflipper'
+include ':ex06_3_animalchoice'
+include ':ex07_1_picturerotate'
+include ':ex07_3_information_input'
+include ':ex10_1_activity'
+include ':ex10_2_pictureratingbar'
+include ':ex10_3_logcat_calling'
+include ':ex10_3_activity_calculate'
+include ':ex10_intent_function6'
+include ':ex11_1_movieview'
+include ':ex11_1_movieview2'
+include ':ex11_2_galleryview'
+include ':ex11_3_spinner'

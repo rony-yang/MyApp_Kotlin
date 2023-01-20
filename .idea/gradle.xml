@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/ex04_3_gugudan" />
+            <option value="$PROJECT_DIR$/ex04_4_androidChoice" />
+            <option value="$PROJECT_DIR$/ex04_petChoice" />
+            <option value="$PROJECT_DIR$/ex05_2_layoutsample" />
+            <option value="$PROJECT_DIR$/ex05_4_layoutmix" />
+            <option value="$PROJECT_DIR$/ex05_project2_calculate" />
+            <option value="$PROJECT_DIR$/ex05_relativelayout" />
+            <option value="$PROJECT_DIR$/ex05_relativelayout2" />
+            <option value="$PROJECT_DIR$/ex06_2_viewflipper" />
+            <option value="$PROJECT_DIR$/ex06_3_animalchoice" />
+            <option value="$PROJECT_DIR$/ex06_clock" />
+            <option value="$PROJECT_DIR$/ex06_practice1_reservationapp" />
+            <option value="$PROJECT_DIR$/ex06_textviewsample" />
+            <option value="$PROJECT_DIR$/ex06_timepicker" />
+            <option value="$PROJECT_DIR$/ex07_1_picturerotate" />
+            <option value="$PROJECT_DIR$/ex07_3_information_input" />
+            <option value="$PROJECT_DIR$/ex10_1_activity" />
+            <option value="$PROJECT_DIR$/ex10_2_pictureratingbar" />
+            <option value="$PROJECT_DIR$/ex10_3_activity_calculate" />
+            <option value="$PROJECT_DIR$/ex10_3_logcat_calling" />
+            <option value="$PROJECT_DIR$/ex10_intent_function6" />
+            <option value="$PROJECT_DIR$/ex11_1_movieview" />
+            <option value="$PROJECT_DIR$/ex11_1_movieview2" />
+            <option value="$PROJECT_DIR$/ex11_2_galleryview" />
+            <option value="$PROJECT_DIR$/ex11_3_spinner" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
